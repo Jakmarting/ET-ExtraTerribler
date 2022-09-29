@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Area51.unity
+    guid: 27e57efd33470c44b99ef42c8a21e9af
+  - enabled: 1
+    path: Assets/Scenes/BlackPentagon.unity
+    guid: 71b327ac2ba348c4e8210447ed9f78e7
+  - enabled: 1
+    path: Assets/Scenes/BonusBackRooms.unity
+    guid: 343f1b180bb840c4a8507b52e4ce9cc5
+  - enabled: 1
+    path: Assets/Scenes/FileSelect.unity
+    guid: 217442ad89172a640b5b497e43471a91
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: b660b1e23dad81f48ae150f60d42f03d
+  - enabled: 1
+    path: Assets/Scenes/MotherShip.unity
+    guid: ad991d9461b46f646a38b26bee2b6016
+  - enabled: 1
+    path: Assets/Scenes/Pandemic.unity
+    guid: 50c73cf8f7c806341af5ca542978b2de
+  - enabled: 1
+    path: Assets/Scenes/TitleCard.unity
+    guid: bc4f2ad927b7b664ba4ecff46144b468
+  m_configObjects: {}

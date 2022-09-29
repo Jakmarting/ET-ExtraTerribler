@@ -1,0 +1,5 @@
+Area51Enemies:
+Soldier,
+Scientist,
+Cyborg,
+Alien
